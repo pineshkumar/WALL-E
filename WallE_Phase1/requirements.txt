@@ -1,3 +1,4 @@
+requests
 openai
 speechrecognition
 RPi.GPIO
